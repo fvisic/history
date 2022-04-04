@@ -15,23 +15,15 @@ Eloquent model history tracking for Laravel (NOW WITH AUTOLOAD!)
 
 ### Composer
 
-Laravel 6.x, 7.x, 8.x
+Laravel 6.x, 7.x, 8.x, 9.x
 
 ```shell
 composer require panoscape/history
 ```
 
-Laravel 5.6.x
-
-```shell
-composer require "panoscape/history:^1.0"
-```
-
 ### Service provider and alias
 
-> Only required for version 1.x
-
-> NO NEED for version 2.0+ which is auto-loaded with [Package Discovery](https://laravel.com/docs/6.x/packages#package-discovery)
+is auto-loaded with [Package Discovery](https://laravel.com/docs/6.x/packages#package-discovery)
 
 
 *config/app.php*
