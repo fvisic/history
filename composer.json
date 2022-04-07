@@ -1,5 +1,5 @@
 {
-    "name": "panoscape/history",
+    "name": "fvisic/history",
     "description": "Eloquent model history tracking for Laravel",
     "keywords": ["laravel", "log", "history", "tracking", "eloquent", "model"],
     "homepage": "https://github.com/seancheung/history",
